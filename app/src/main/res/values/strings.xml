@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android-ListView-Ankur</string>
+    <string name="tvstring">This is my fist ListView example</string>
+    <string-array name="Subject">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Machine Learning</item>
+        <item>Big Data</item>
+        <item>C language</item>
+        <item>Node JS</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
